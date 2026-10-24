@@ -25,6 +25,7 @@ Sitemap: https://casoon.github.io/liveaudit/sitemap.xml
 Sitemap: https://casoon.github.io/llmux/sitemap.xml
 Sitemap: https://casoon.github.io/nosecrets/sitemap.xml
 Sitemap: https://casoon.github.io/opengrid/sitemap.xml
+Sitemap: https://casoon.github.io/opi/sitemap.xml
 Sitemap: https://casoon.github.io/origin/sitemap.xml
 Sitemap: https://casoon.github.io/pine-scripts/sitemap.xml
 Sitemap: https://casoon.github.io/rechenkiste/sitemap.xml

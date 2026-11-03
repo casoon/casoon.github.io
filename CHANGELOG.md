@@ -5,6 +5,10 @@ All notable changes to casoon.github.io are listed here. casoon.github.io follow
 
 ## [Unreleased]
 
+### Added
+
+- **Root:** agentmeter, Avilo, fragment-renderer, kestrel-loom, probat and Skibidoo in the overview and their sitemaps in `robots.txt`.
+
 ## [1.0.0] - 2026-10-24
 
 ### Added

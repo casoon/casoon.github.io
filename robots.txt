@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://casoon.github.io/agentmeter/sitemap.xml
 Sitemap: https://casoon.github.io/ai-agent-config/sitemap.xml
 Sitemap: https://casoon.github.io/astro-post-audit/sitemap.xml
 Sitemap: https://casoon.github.io/astro-site-files/sitemap.xml
@@ -9,15 +10,18 @@ Sitemap: https://casoon.github.io/astro-structured-data/sitemap.xml
 Sitemap: https://casoon.github.io/astro-webvitals/sitemap.xml
 Sitemap: https://casoon.github.io/auditmysite/sitemap.xml
 Sitemap: https://casoon.github.io/auditmyvisitors/sitemap.xml
+Sitemap: https://casoon.github.io/avilo/sitemap.xml
 Sitemap: https://casoon.github.io/barrierlab/sitemap.xml
 Sitemap: https://casoon.github.io/broom/sitemap.xml
 Sitemap: https://casoon.github.io/canon/sitemap.xml
 Sitemap: https://casoon.github.io/castwright/sitemap.xml
 Sitemap: https://casoon.github.io/chartlet/sitemap.xml
+Sitemap: https://casoon.github.io/fragment-renderer/sitemap.xml
 Sitemap: https://casoon.github.io/go-tutorial/sitemap.xml
 Sitemap: https://casoon.github.io/imgen/sitemap.xml
 Sitemap: https://casoon.github.io/judge/sitemap.xml
 Sitemap: https://casoon.github.io/kestrel-chartkit/sitemap.xml
+Sitemap: https://casoon.github.io/kestrel-loom/sitemap.xml
 Sitemap: https://casoon.github.io/knowledge-core/sitemap.xml
 Sitemap: https://casoon.github.io/knowledge-lint/sitemap.xml
 Sitemap: https://casoon.github.io/lightweight-pdf/sitemap.xml
@@ -28,6 +32,7 @@ Sitemap: https://casoon.github.io/opengrid/sitemap.xml
 Sitemap: https://casoon.github.io/opi/sitemap.xml
 Sitemap: https://casoon.github.io/origin/sitemap.xml
 Sitemap: https://casoon.github.io/pine-scripts/sitemap.xml
+Sitemap: https://casoon.github.io/probat/sitemap.xml
 Sitemap: https://casoon.github.io/rechenkiste/sitemap.xml
 Sitemap: https://casoon.github.io/relief/sitemap.xml
 Sitemap: https://casoon.github.io/renderreport/sitemap.xml
@@ -36,6 +41,7 @@ Sitemap: https://casoon.github.io/runemark/sitemap.xml
 Sitemap: https://casoon.github.io/schedulr/sitemap.xml
 Sitemap: https://casoon.github.io/score/sitemap.xml
 Sitemap: https://casoon.github.io/site-scraper/sitemap.xml
+Sitemap: https://casoon.github.io/skibidoo-core/sitemap.xml
 Sitemap: https://casoon.github.io/timbra/sitemap.xml
 Sitemap: https://casoon.github.io/trackr/sitemap.xml
 Sitemap: https://casoon.github.io/typedlm/sitemap.xml

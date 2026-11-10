@@ -12,6 +12,7 @@ Sitemap: https://casoon.github.io/auditmysite/sitemap.xml
 Sitemap: https://casoon.github.io/auditmyvisitors/sitemap.xml
 Sitemap: https://casoon.github.io/avilo/sitemap.xml
 Sitemap: https://casoon.github.io/barrierlab/sitemap.xml
+Sitemap: https://casoon.github.io/barrierlab-agent-plugin/sitemap.xml
 Sitemap: https://casoon.github.io/barrierlab-cli/sitemap.xml
 Sitemap: https://casoon.github.io/broom/sitemap.xml
 Sitemap: https://casoon.github.io/canon/sitemap.xml

@@ -20,6 +20,7 @@ Sitemap: https://casoon.github.io/castwright/sitemap.xml
 Sitemap: https://casoon.github.io/chartlet/sitemap.xml
 Sitemap: https://casoon.github.io/fragment-renderer/sitemap.xml
 Sitemap: https://casoon.github.io/go-tutorial/sitemap.xml
+Sitemap: https://casoon.github.io/helpdesk/sitemap.xml
 Sitemap: https://casoon.github.io/imgen/sitemap.xml
 Sitemap: https://casoon.github.io/judge/sitemap.xml
 Sitemap: https://casoon.github.io/kestrel-chartkit/sitemap.xml
